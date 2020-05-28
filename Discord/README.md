@@ -5,5 +5,6 @@
 ### Discord
 *input image here
 
-Masuk ke server discord TJCTF (https://discord.com/invite/w5xapGP) lalu pergi ke bagian announcement dan akan mendapat tjctf{we_love_wumpus}
+1. Masuk ke server discord TJCTF (https://discord.com/invite/w5xapGP) 
+2. Pergi ke bagian announcement dan akan mendapat tjctf{we_love_wumpus}
 
